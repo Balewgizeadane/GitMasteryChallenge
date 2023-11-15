@@ -1,3 +1,6 @@
 # GitMasteryChallenge
 
-Welcome to the Project gitmasterychallenge! this is a readme for initi purpose
+Welcome to the Project pitmasterchallenge! This is a readme for initial purpose 
+
+
+...................the body...........................
